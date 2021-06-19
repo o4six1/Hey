@@ -1,0 +1,13 @@
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.csprojAssemblyReference.cache
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.AssemblyInfoInputs.cache
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.AssemblyInfo.cs
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.exe
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.deps.json
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.runtimeconfig.json
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.runtimeconfig.dev.json
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.dll
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\bin\Debug\netcoreapp3.1\CA2.pdb
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.dll
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.pdb
+C:\Users\Benjamin schellekens\source\repos\CA2\CA2\obj\Debug\netcoreapp3.1\CA2.genruntimeconfig.cache
